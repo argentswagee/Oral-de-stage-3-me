@@ -210,3 +210,15 @@
     background-color: #FFBFA0;
     z-index: 1;
     }
+
+.img1:hover {
+    cursor: pointer;
+}
+
+.img2:hover {
+    cursor: pointer;
+}
+
+.img3:hover {
+    cursor: pointer;
+}
